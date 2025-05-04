@@ -55,7 +55,6 @@ irun/xrun module_name.v module_test_name.v -access +rwc -gui
 ```
 irun counter.v counter_test.v -access +rwc -gui
 ```
-<img width="719" alt="1" src="https://github.com/user-attachments/assets/ef3d1526-aa05-4fea-ab84-a693429f53d6">
 
 The simulation output and waveform results were generated as shown below:
 <img width="720" alt="2" src="https://github.com/user-attachments/assets/e5474b18-2c71-4666-9fdc-20c5585107b8">
