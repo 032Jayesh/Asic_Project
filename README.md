@@ -214,7 +214,4 @@ saveDesign DBS/cts.enc
 
 <img width="719" alt="route-3" src="https://github.com/user-attachments/assets/3fb3fd8d-6e70-480e-9726-c6ed66e15873">
 
-### rc extraction
-
-### physical verification
 
